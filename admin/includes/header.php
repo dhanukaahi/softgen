@@ -5,7 +5,7 @@
 
                 <nav class="navbar navbar-expand-lg navbar-light py-3 " >
                     <div class="nav-wrapper row">
-                  <marquee width="950px" direction="left" behavior="alternate" ><span style="font-size:38px; width=''font-weight:bold;color:#1F7A8C;font-family:'lobster', cursive;">Softgen | Employee Leave Management System</span>
+                  <marquee width="950px" direction="left" behavior="alternate" ><span style="font-size:38px; width=''font-weight:bold;color:#000000;font-family:'Calibri', cursive;">Softgen | Employee Leave Management System</span>
         </marquee>
           <div class="collapse navbar-collapse d-flex justify-content-center align-items-center" id="navbarNavAltMarkup">
           <div class="navbar-nav d-flex justify-content-center align-items-center">

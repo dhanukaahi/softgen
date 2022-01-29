@@ -68,7 +68,7 @@
               
                 </ul>
                    <div class="footer">
-                    <p class="copyright">ELMS©</p>
+                    <p class="copyright">Softgen©</p>
                 
                 </div>
                 </div>
