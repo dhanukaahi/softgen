@@ -45,7 +45,7 @@
                 <nav class="navbar navbar-expand-lg navbar-light py-3">
         
           <div class="collapse navbar-collapse d-flex justify-content-center align-items-center" id="navbarNavAltMarkup">
-             <marquee width="100%" direction="left" behavior="alternate" ><span style="font-size:38px;font-weight:bold;color:#000000;font-family:'Calibri', cursive;">Softgen | Employee Leave Management System</span>
+             <marquee width="100%" direction="left" behavior="alternate" ><span style="font-size:38px; width=''font-weight:bold;color:#000000;font-family:'Calibri', cursive;">Softgen | Employee Leave Management System</span>
         </marquee>
           <div class="navbar-nav d-flex justify-content-center align-items-center">
   
